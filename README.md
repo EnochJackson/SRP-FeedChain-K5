@@ -17,7 +17,7 @@ FeedChain is a Flutter + Firebase app that connects **donors** with **receivers*
 
 ## 📂 Project Structure
 
-![image alt]([image_url](https://github.com/EnochJackson/SRP-FeedChain-K5/blob/f775b2a5ee8fe5fccfc973274809dde8eff898fa/image.png))
+![image alt](https://github.com/EnochJackson/SRP-FeedChain-K5/blob/f775b2a5ee8fe5fccfc973274809dde8eff898fa/image.png)
 
 ---
 
@@ -28,4 +28,5 @@ FeedChain is a Flutter + Firebase app that connects **donors** with **receivers*
 - Run with `flutter run`  
 
 ---
+
 
