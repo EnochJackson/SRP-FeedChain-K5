@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511252138434",
+    "project_id": "feedchain-ca0d6",
+    "storage_bucket": "feedchain-ca0d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511252138434:android:38f6b3a4199b10a4476e5b",
+        "android_client_info": {
+          "package_name": "com.example.feedchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4M_a94YOtgbdKNfZvqscozsHZq710Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
